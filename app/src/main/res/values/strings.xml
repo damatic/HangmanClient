@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hangman v1.01</string>
+    <string name="send">send</string>
+    <string name="enter_a_letter">Enter a letter</string>
+    <string name="movie_title">Movie title</string>
+    <string name="hangman">Hangman</string>
+    <string name="mistakes">Mistakes</string>
+    <string name="no">No</string>
+</resources>
